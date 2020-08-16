@@ -1,0 +1,13 @@
+C:\Users\Padrino\Desktop\Assigments\Word_Finder\WordFinder\WordFinder\bin\Debug\netcoreapp3.1\WordFinder.exe
+C:\Users\Padrino\Desktop\Assigments\Word_Finder\WordFinder\WordFinder\bin\Debug\netcoreapp3.1\WordFinder.deps.json
+C:\Users\Padrino\Desktop\Assigments\Word_Finder\WordFinder\WordFinder\bin\Debug\netcoreapp3.1\WordFinder.runtimeconfig.json
+C:\Users\Padrino\Desktop\Assigments\Word_Finder\WordFinder\WordFinder\bin\Debug\netcoreapp3.1\WordFinder.runtimeconfig.dev.json
+C:\Users\Padrino\Desktop\Assigments\Word_Finder\WordFinder\WordFinder\bin\Debug\netcoreapp3.1\WordFinder.dll
+C:\Users\Padrino\Desktop\Assigments\Word_Finder\WordFinder\WordFinder\bin\Debug\netcoreapp3.1\WordFinder.pdb
+C:\Users\Padrino\Desktop\Assigments\Word_Finder\WordFinder\WordFinder\obj\Debug\netcoreapp3.1\WordFinder.csprojAssemblyReference.cache
+C:\Users\Padrino\Desktop\Assigments\Word_Finder\WordFinder\WordFinder\obj\Debug\netcoreapp3.1\WordFinder.AssemblyInfoInputs.cache
+C:\Users\Padrino\Desktop\Assigments\Word_Finder\WordFinder\WordFinder\obj\Debug\netcoreapp3.1\WordFinder.AssemblyInfo.cs
+C:\Users\Padrino\Desktop\Assigments\Word_Finder\WordFinder\WordFinder\obj\Debug\netcoreapp3.1\WordFinder.csproj.CoreCompileInputs.cache
+C:\Users\Padrino\Desktop\Assigments\Word_Finder\WordFinder\WordFinder\obj\Debug\netcoreapp3.1\WordFinder.dll
+C:\Users\Padrino\Desktop\Assigments\Word_Finder\WordFinder\WordFinder\obj\Debug\netcoreapp3.1\WordFinder.pdb
+C:\Users\Padrino\Desktop\Assigments\Word_Finder\WordFinder\WordFinder\obj\Debug\netcoreapp3.1\WordFinder.genruntimeconfig.cache
