@@ -82,7 +82,7 @@ namespace WordFinder
         static void Main(string[] args)
         {
             int a, b;
-            string inputA, inputB;
+            string inputA, inputB, input;
             Logger _logger = new Logger();
             ConsoleKeyInfo name;
             WordFinder _wordFinder = new WordFinder();
@@ -94,11 +94,11 @@ namespace WordFinder
                 _wordFinder.word = Console.ReadLine().ToLower();
 
                 _logger.Log("Please enter the number of rows for the matrix: ");
-                 name = Console.ReadKey();
-                inputA = name.KeyChar.ToString();
+                 input = Console.ReadLine();
+                inputA = input;
                 _logger.Log("\nPlease enter the number of columns for the matrix: ");
-                name = Console.ReadKey();
-                inputB = name.KeyChar.ToString();
+                input = Console.ReadLine();
+                inputB = input;
                     if (int.TryParse(inputA, out _wordFinder.rows) && int.TryParse(inputB, out _wordFinder.columns))
                     {
                         _wordFinder.CreateMatrix(_wordFinder.rows, _wordFinder.columns);
