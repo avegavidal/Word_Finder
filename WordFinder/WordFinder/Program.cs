@@ -15,7 +15,7 @@ namespace WordFinder
             this.matrix = new string[a,b];
         }
 
-        public bool searchWord()
+        public bool SearchWord()
         {
             int indexWord = 0;
             char[] splitedWord = word.ToCharArray();
@@ -112,7 +112,7 @@ namespace WordFinder
                                 _wordFinder.matrix[i, j] = name.KeyChar.ToString().ToLower();
                             }
                         }
-                        bool result = _wordFinder.searchWord();
+                        bool result = _wordFinder.SearchWord();
                         if (result)
                         {
                             _logger.Log($"\nWe found your word, orientation: {_wordFinder.orientation}");
